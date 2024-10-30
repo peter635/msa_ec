@@ -1,0 +1,3 @@
+[submodule "gatsby-ecommerce-theme"]
+  path = gatsby-ecommerce-theme
+  url = https://github.com/netlify-templates/gatsby-ecommerce-theme.git
